@@ -1,4 +1,4 @@
-#Para ejecutar
+# Para ejecutar
 
 * Instalar Python 3   
 [Python 3](https://www.python.org/downloads/)
